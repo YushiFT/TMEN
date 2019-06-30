@@ -1,2 +1,2 @@
 # TMEN
-R source code for constructing tripartite microbial ecology network and conducting related statistical analysis
+R source code for constructing Tripartite Microbial-Environment Network (TMEN) and conducting related statistical analysis
